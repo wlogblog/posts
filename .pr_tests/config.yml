@@ -1,0 +1,47 @@
+baseURL: "https://wlog.blog/"
+title: without loss of generality
+paginate: 5
+theme: PaperMod
+
+params:
+  env: pr_test
+  title: without loss of generality
+  author: pr_raiser
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  label:
+    text: "home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # home-info mode
+  homeInfoParams:
+    Title: "`without loss of generality` \U0001F44B"
+    Content: |
+             __~:wlog$__ welcome to a blog of learnings and shower thoughts from the life of a data engineer.
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+permalinks:
+  posts: /posts/:filename/
+
+ignoreFiles:
+  README.md
+  content/posts/.gitkeep

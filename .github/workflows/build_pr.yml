@@ -1,0 +1,32 @@
+name: build site only
+on:
+  pull_request:
+    branches: [ "main"]
+    paths:
+      - submissions/
+      - .github/**
+  push:
+    branches: [ "ci_test" ]
+    paths:
+      - submissions/
+      - .github/**
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: init theme
+      uses: actions/checkout@master
+      with:
+        repository: adityatelange/hugo-PaperMod
+        path: .pr_tests/themes/PaperMod
+        ref: v7.0
+        fetch-depth: 1
+    - name: init content
+      run: |
+        cp -r submissions .pr_tests/content/posts
+    - uses: jakejarvis/hugo-build-action@v0.111.3
+      with:
+        args: --source .pr_tests/ --buildDrafts
