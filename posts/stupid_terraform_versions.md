@@ -10,7 +10,7 @@ tags:
   - infra
   - iac
 editPost:
-    URL: "https://github.com/wlogblog/posts/submissions" 
+    URL: "https://github.com/wlogblog/posts/tree/main" 
     Text: "suggest changes"
     appendFilePath: true
 author: "@the.editor"  # put your own github handle for PRs, or put @anon if you want to remain anonymous
