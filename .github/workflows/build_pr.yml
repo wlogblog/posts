@@ -6,7 +6,7 @@ on:
       - submissions/
       - .github/**
   push:
-    branches: [ "ci_test" ]
+    branches: [ "ci_test", "main" ]
     paths:
       - submissions/
       - .github/**
