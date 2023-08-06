@@ -1,0 +1,10 @@
+{{- if or .Params.author site.Params.author }}
+{{- $author := (.Params.author | default site.Params.author) }}
+{{- $author_type := (printf "%T" $author) }}
+
+{{- if .Params.author_external_url }}
+<a href="{{ .Params.author_external_url }}" rel="noopener noreferrer" target="_blank">  {{- $author }} </a>
+{{- else}}
+{{- $author }} 
+{{- end}}
+{{- end -}}

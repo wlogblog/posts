@@ -13,7 +13,8 @@ editPost:
     URL: "https://github.com/wlogblog/posts/tree/main/submissions/" 
     Text: "suggest changes"
     appendFilePath: true
-author: "@the.editor"  # put your own github handle for PRs, or put @anon if you want to remain anonymous
+author: "@the.editor"  # put your own github handle for PRs, or put @an.engineer if you want to remain anonymous
+# author_external_url : "https://github.com/wlogblog/"
 ---
 
 ## You know when's the most annoying time to see a terraform version error?
