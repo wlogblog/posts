@@ -44,3 +44,4 @@ permalinks:
 
 ignoreFiles:
   README.md
+  content/posts/.gitkeep
