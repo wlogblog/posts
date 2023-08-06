@@ -9,9 +9,14 @@ tags:
   - terraform
   - infra
   - iac
+editPost:
+    URL: "https://github.com/wlogblog/posts/submissions" 
+    Text: "suggest changes"
+    appendFilePath: true
+author: "@the.editor"  # put your own github handle for PRs, or put @anon if you want to remain anonymous
 ---
 
-## You know when's the most annoying time to see a terraform version error? 
+## You know when's the most annoying time to see a terraform version error?
 
 When you are trying to `terraform import` a bunch of orphaned resources that didn't successfully delete during [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) cause of a bug in a custom module.
 
