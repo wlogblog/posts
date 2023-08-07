@@ -2,9 +2,6 @@ name: build site only
 on:
   pull_request:
     branches: [ "main"]
-    paths:
-      - submissions/
-      - .github/**
   push:
     branches: [ "ci_test", "main" ]
     paths:
