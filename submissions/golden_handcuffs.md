@@ -33,7 +33,7 @@ Pretty good.
 
 ### Wait, am I the sucker?
 
-If you're bringing it that big paycheck at FAANG or the likes, chances are, you're too deep in that quicksand to get out. Every year you tell yourself and your family "one more year" and "after this project is over" and "just as soon as I get this promotion", but every year the next incentive comes up.
+If you're bringing in that big paycheck at FAANG or the likes, chances are, you're too deep in that quicksand to get out. Every year you tell yourself and your family "one more year" and "after this project is over" and "just as soon as I get this promotion", but every year the next incentive comes up.
 
 One particularly crafty strategy is bumping your pay without giving you a promotion. They tell you that you're "out of band" because of how great of a job you did, so you feel grateful for getting paid so much above your peers. At the same time, your title does not reflect your pay, so should you try to apply for a job elsewhere, you'll have a hard time finding a role with equivalent pay.
 
