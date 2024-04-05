@@ -1,5 +1,5 @@
 ---
-title: "Compensation Manipulation"
+title: "compensation manipulation"
 date: 2024-04-04T21:08:37-07:00
 draft: false
 keywords:
@@ -10,6 +10,10 @@ keywords:
   - tech jobs
 tags:
   - FAANG
+  - big tech
+  - compensation
+  - tech jobs
+  - thoughts
 author: "@the.oneandonlyamericancontributor"
 # author_external_url : "https://github.com/wlogblog/"
 robots: index,follow
@@ -17,19 +21,19 @@ robots: index,follow
 
 Manipulation of all kinds is the norm at big corporations. Corporations are incredible at what they do because they have had ample time to perfect the practice. And if that practice is in manipulating employees, you bet ya, they have perfected it too.
 
-### Manipulator's Handbook
-
-The steps to success for any master manipulator are as follows:
-- Make the target feel like they are in control and the decisions they make are their own;
-- Pull levers that you know only you have the power to leverage;
-- Create a sense of urgency to accept your terms;
-- Create obstacles to exploring alternatives to create a sense of superiority of one choice over others;
-- Strategically place reminders of impermanence & instability to suggest how lucky the target is to be where they are and how grateful they should be;
-- Exploit imposter syndrome, market volatility, and any and all world state conditions in your favor.
-
-The result? Your target will do exactly what you want, when you want, will apologize profusely for ever thinking you were not God Almighty, and will thank you for the opportunity to slave for you for another couple of years.
-
-Pretty good.
+> ### :book: Manipulator's Handbook
+>
+> #### *steps to success for a master manipulator*
+> - *Make the target feel like they are in control and the decisions they make are their own*
+> - *Pull levers that you know only you have the power to leverage*
+> - *Create a sense of urgency to accept your terms*
+> - *Create obstacles to exploring alternatives to create a sense of superiority of one choice over others*
+> - *Strategically place reminders of impermanence & instability to suggest how lucky the target is to be where they are and how grateful they should be*
+> - *Exploit imposter syndrome, market volatility, and any and all world state conditions in your favor*
+>
+> *The result? Your target will do exactly what you want, when you want, will apologize profusely for ever thinking you were not God Almighty, and will thank you for the opportunity to slave for you for another couple of years.*
+>
+> *Staff. Retention. Achieved.*
 
 ### Wait, am I the sucker?
 
